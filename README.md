@@ -1,4 +1,4 @@
-# python-container-template
+# deno-container-template
 
-Template of vscode remote development container with Python.  
-The Python version in the Dockerfile and Github Actions, and the module version in requirements.txt should be fixed.
+Template of vscode remote development container with Deno.  
+The version of Deno in the Dockerfile and Github Actions should be fixed.
